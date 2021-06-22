@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIcalApp</string>
+    <string name="textview">TextView</string>
+    <string name="resultButton">Button</string>
+    <string name="heightEditText">키를 입력하세요</string>
+    <string name="weightEditText">몸무게를 입력하세요</string>
+</resources>
